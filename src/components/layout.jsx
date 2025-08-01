@@ -60,19 +60,19 @@ const Header = () => {
       </a>
 
       <div className="social-links text-center py-2 space-x-2">
-        <a href="#" className="inline-block w-8 h-8 leading-8 rounded-full bg-gray-700 text-white text-center hover:bg-blue-500 transition-colors duration-300">
+        <a href="https://twitter.com/@kevNeymahkiogi"target="_blank" className="inline-block w-8 h-8 leading-8 rounded-full bg-gray-700 text-white text-center hover:bg-blue-500 transition-colors duration-300">
           <i className="bi bi-twitter-x"></i>
         </a>
-        <a href="#" className="inline-block w-8 h-8 leading-8 rounded-full bg-gray-700 text-white text-center hover:bg-blue-500 transition-colors duration-300">
+        <a href="https://facebook.com/K Neymah K Kiogi"target="_blank" className="inline-block w-8 h-8 leading-8 rounded-full bg-gray-700 text-white text-center hover:bg-blue-500 transition-colors duration-300">
           <i className="bi bi-facebook"></i>
         </a>
-        <a href="#" className="inline-block w-8 h-8 leading-8 rounded-full bg-gray-700 text-white text-center hover:bg-blue-500 transition-colors duration-300">
+        <a href="https://www.instagram.com/k.neymak.k/" target="_blank" className="inline-block w-8 h-8 leading-8 rounded-full bg-gray-700 text-white text-center hover:bg-blue-500 transition-colors duration-300">
           <i className="bi bi-instagram"></i>
         </a>
-        <a href="#" className="inline-block w-8 h-8 leading-8 rounded-full bg-gray-700 text-white text-center hover:bg-blue-500 transition-colors duration-300">
+        <a href="https://wa.me/254746047596"target="_blank" className="inline-block w-8 h-8 leading-8 rounded-full bg-gray-700 text-white text-center hover:bg-blue-500 transition-colors duration-300">
   <i className="bi bi-whatsapp"></i> 
 </a>
-        <a href="#" className="inline-block w-8 h-8 leading-8 rounded-full bg-gray-700 text-white text-center hover:bg-blue-500 transition-colors duration-300">
+        <a href="https://www.linkedin.com/in/kevin-neymah-17177930b/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BSttn8vCjSKCAeQeJC9CA%2Bg%3D%3D" target="_blank" className="inline-block w-8 h-8 leading-8 rounded-full bg-gray-700 text-white text-center hover:bg-blue-500 transition-colors duration-300">
           <i className="bi bi-linkedin"></i>
         </a>
       </div>
